@@ -1,6 +1,5 @@
 Hello! Welcome to My GitHub Profile 👋
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/IMAGE_NAME.png" alt="Profile Picture">
 </p>
 My name is Capehart. I'm passionate about software development and I share my experiences and knowledge through the projects I contribute here. Below you can find more information about me, my skills, and interests:
 💻 Languages and Tools
