@@ -12,5 +12,6 @@ My name is Capehart. I'm passionate about software development and I share my ex
   <!-- Add more language and tool icons: https://github.com/devicons/devicon -->
 </p>
 legitapehart.protonmail.com
+
 See you around! 😄
 
