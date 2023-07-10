@@ -3,7 +3,7 @@ Hello! Welcome to My GitHub Profile 👋
 </p>
 My name is Capehart. I'm passionate about software development and I share my experiences and knowledge through the projects I contribute here. Below you can find more information about me, my skills
                                                                                       
-                                                  💻 Languages and Tools
+                                                   💻 Languages and Tools
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
