@@ -30,4 +30,4 @@ Feel free to reach out to me for any questions or collaboration opportunities!
   <!-- Add more language and tool icons: https://github.com/devicons/devicon -->
 </p>
 See you around! 😄
-https://images-ext-2.discordapp.net/external/frirq9faFnZKuc88NzG6dGApxSOyDjycXl5ezpa166I/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1118674856163164262/a_e00f4768d69be8bef9d797740db85210.gif
+
