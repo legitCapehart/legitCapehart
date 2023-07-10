@@ -1,7 +1,7 @@
 Hello! Welcome to My GitHub Profile 👋
 <p align="center">
 </p>
-My name is Capehart. I'm passionate about software development and I share my experiences and knowledge through the projects I contribute here. Below you can find more information about me, my skills, and interests:
+My name is Capehart. I'm passionate about software development and I share my experiences and knowledge through the projects I contribute here. Below you can find more information about me, my skills
                                                                                       
                                                           💻 Languages and Tools
 <p align="center">
@@ -11,5 +11,6 @@ My name is Capehart. I'm passionate about software development and I share my ex
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- Add more language and tool icons: https://github.com/devicons/devicon -->
 </p>
+legitapehart.protonmail.com
 See you around! 😄
 
