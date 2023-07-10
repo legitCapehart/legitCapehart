@@ -30,4 +30,4 @@ Feel free to reach out to me for any questions or collaboration opportunities!
   <!-- Add more language and tool icons: https://github.com/devicons/devicon -->
 </p>
 See you around! 😄
-
+[![legitCapehart's GitHub stats](https://github-readme-stats.vercel.app/api?username=legitCapehart)](https://github.com/anuraghazra/github-readme-stats)
