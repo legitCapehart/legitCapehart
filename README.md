@@ -11,7 +11,6 @@ My name is Capehart. I'm passionate about software development and I share my ex
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- Add more language and tool icons: https://github.com/devicons/devicon -->
 </p>
-mail; legitcapehart.protonmail.com
 
 discord; capehart.
 
